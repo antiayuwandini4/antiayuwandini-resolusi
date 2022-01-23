@@ -3,7 +3,9 @@ RENCANA KONTEN WEB
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
+   ^ Vue
    ^ React
 - PHP Framework
- ^ Laravel
+ ^Laravel
+- Interview
+- Vlogs
