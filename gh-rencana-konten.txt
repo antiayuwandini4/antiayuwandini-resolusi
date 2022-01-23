@@ -4,5 +4,6 @@ RENCANA KONTEN WEB
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React
 - PHP Framework
  ^Laravel
